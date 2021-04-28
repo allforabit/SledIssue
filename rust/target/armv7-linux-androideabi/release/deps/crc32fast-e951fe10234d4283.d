@@ -1,0 +1,11 @@
+C:\Users\Kevin\AndroidStudioProjects\SledIssue\rust\target\armv7-linux-androideabi\release\deps\crc32fast-e951fe10234d4283.rmeta: C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\lib.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\baseline.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\combine.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\specialized\mod.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\table.rs
+
+C:\Users\Kevin\AndroidStudioProjects\SledIssue\rust\target\armv7-linux-androideabi\release\deps\libcrc32fast-e951fe10234d4283.rlib: C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\lib.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\baseline.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\combine.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\specialized\mod.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\table.rs
+
+C:\Users\Kevin\AndroidStudioProjects\SledIssue\rust\target\armv7-linux-androideabi\release\deps\crc32fast-e951fe10234d4283.d: C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\lib.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\baseline.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\combine.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\specialized\mod.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\table.rs
+
+C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\lib.rs:
+C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\baseline.rs:
+C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\combine.rs:
+C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\specialized\mod.rs:
+C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.1\src\table.rs:
